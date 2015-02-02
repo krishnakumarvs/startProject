@@ -1,2 +1,2 @@
-# startProject
-my learning first project
+this is my first github repository.
+Meant for educational purpose only.
